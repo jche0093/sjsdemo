@@ -1,0 +1,49 @@
+footer{
+    background-color: #333333;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 300px;
+}
+
+.col-sm-2 {
+    flex: 0 0 auto;
+    width: 16.6666666667%;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.imglogo {
+    flex-shrink: 0;
+    object-fit: cover;
+    display: block;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    width: 55px;
+    height: 55px;
+    object-position: 0.66% 50%;
+    margin: 0 1 auto;
+}
+
+.text-white{
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.copy{
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.link-light{
+    font-size: 15px;
+}
+
+.blue{
+    font-size: 13px;
+}
+
+
+

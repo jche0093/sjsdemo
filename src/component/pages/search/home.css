@@ -1,0 +1,50 @@
+@import 'antd/dist/antd.css';
+
+.home{
+  display: flex;
+  flex-flow: column;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.header{
+   color:rgb(35, 136, 236);
+   text-align: center;
+   font-size: 60px;
+   margin-top: 90px;
+}
+
+.search{
+    flex-wrap: nowrap;
+    text-align: center;
+    margin-top: 80px;
+    flex: 1;
+}
+
+.homeheader{
+    margin-top: 10px;
+}
+
+.search-bar{
+    height:32px;
+    width:60vw;
+}
+
+.ant-select-selector{
+    height:30px;
+}
+
+.ant-select-selector{
+    height:30px;
+}
+
+.buttonSearch {
+  background: rgb(24, 127, 230);
+  border: none;
+  color:white;;
+  border-radius:10px;
+  width:100px;
+  height:40px;
+  font-weight:bolder;
+  margin-top: 75px;
+}
